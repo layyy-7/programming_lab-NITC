@@ -1,5 +1,5 @@
 # programming_lab-NITC
-Code of programming lab in S3
+Code of Programming Lab in S3
 <br>
 These are the codes for all the assignments in the programming lab
 <br>
